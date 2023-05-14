@@ -39,6 +39,6 @@ default:
 
 course:
   name: BLOCKCHAIN, FINTECH_
-  chapterCount: 45
-  rating: 5
+  chapterCount: 450
+  rating: 50
   author: devdaddy_
