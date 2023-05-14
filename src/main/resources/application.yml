@@ -1,3 +1,14 @@
+spring:
+  config:
+    active:
+      on-profile: qa
+
+---
+spring:
+  config:
+    active:
+      on-profile: dev
+
 server:
   port: 9090
 
@@ -11,3 +22,23 @@ course:
   chapterCount: 45
   rating: 5
   author: devdaddy
+
+---
+spring:
+  config:
+    active:
+      on-profile: qa
+
+server:
+  port: 9091
+
+default:
+  course:
+    name: SAP HANA_
+    chapterCount: 3_
+
+course:
+  name: BLOCKCHAIN, FINTECH_
+  chapterCount: 45
+  rating: 5
+  author: devdaddy_
