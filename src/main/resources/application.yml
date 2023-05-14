@@ -1,0 +1,13 @@
+server:
+  port: 9090
+
+default:
+  course:
+    name: SAP HANA
+    chapterCount: 3
+
+course:
+  name: BLOCKCHAIN, FINTECH
+  chapterCount: 45
+  rating: 5
+  author: devdaddy
