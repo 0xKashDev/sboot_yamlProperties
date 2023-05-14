@@ -2,7 +2,8 @@ Yaml Properties
 
 1. use skeleton from other project ``
 2. create application.yaml
-3. 
+3. add user profiles to yml 
+4. 
 
 
 
